@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @MahendarKumawatR
-- 👀 I’m interested in Java, SpringBoot, ReST API, AWS
-- 🌱 I’m currently learning SpringBoot
-- 💞️ I’m looking to collaborate on any development regarding the above skills
-- 📫 How to reach me mahendar710@gmail.com(Mob: 8892184667)
+### Hi there! 👋 I'm Mahendar Kumawat (@MahendarKumawatR)
+
+- 👀 **Interests:** Java, Spring Boot, REST APIs, AWS
+- 🌱 **Currently Learning:** Spring Boot
+- 💞️ **Looking to Collaborate On:** Projects related to Java, Spring Boot, REST APIs, and AWS
+- 📫 **Contact Me:**  
+  - **Email:** mahendar710@gmail.com  
+  - **Mobile:** +91 8892184667
+
+Feel free to connect and collaborate!
+
 
 <!---
 MahendarKumawatR/MahendarKumawatR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
